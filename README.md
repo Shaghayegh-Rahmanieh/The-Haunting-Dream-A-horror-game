@@ -2,37 +2,35 @@
 
 ## Description
 
-**The Haunting Dream** is a psychological horror game developed as a final project for my Bachelor's degree in Software Engineering. The game focuses on creating a terrifying and immersive experience, where the player must navigate through a dark, mysterious world filled with puzzles, terrifying creatures, and unexpected twists. 
+The Haunting Dream is a psychological horror game developed as a final project for my Bachelor's degree in Software Engineering. The game focuses on creating a terrifying and immersive experience, where the player must navigate through a dark, mysterious world filled with puzzles, terrifying creatures, and unexpected twists. In this game, the player must solve various puzzles and face mental and physical challenges in order to escape an endless cycle of horrific events. The game uses Unity as the development platform, and C# is used for scripting. It incorporates 3D graphics, animations, and sound design to create an atmospheric experience.
 
-In this game, the player must solve various puzzles and face mental and physical challenges in order to escape an endless cycle of horrific events. The game uses Unity as the development platform, and C# is used for scripting. It incorporates 3D graphics, animations, and sound design to create an atmospheric experience.
+---
+
+بازی The Haunting Dream یک بازی ترسناک روانشناختی است که به عنوان پروژه پایانی برای مقطع کارشناسی رشته مهندسی نرم‌افزار طراحی شده است. این بازی بر ایجاد تجربه‌ای ترسناک و غرق‌کننده متمرکز است که در آن بازیکن باید از میان یک دنیای تاریک و پر از رمز و راز عبور کرده و با معماها، موجودات وحشتناک و پیچش‌های غیرمنتظره مواجه شود.  
+در این بازی، بازیکن باید معماها را حل کرده و با چالش‌های ذهنی و فیزیکی روبرو شود تا از یک چرخه بی‌پایان از حوادث وحشتناک فرار کند. این بازی با استفاده از Unity به عنوان پلتفرم توسعه و C# برای برنامه‌نویسی ساخته شده است. گرافیک‌های سه‌بعدی، انیمیشن‌ها و طراحی صدا برای ایجاد تجربه‌ای فضاسازی شده و ترسناک استفاده شده است.
 
 ## Features
 
-- **Psychological Horror Elements**: A story-driven experience with intense psychological horror themes.
-- **3D Environments**: Realistic 3D environments filled with suspense and terror.
-- **Immersive Audio**: Atmospheric sounds and music to enhance the sense of fear.
-- **Puzzles and Challenges**: Solve puzzles and interact with the environment to progress.
-- **AI Behavior**: Enemies that react to player actions and chase them.
-- **Timeline Mechanics**: Use of Unity’s PlayableDirector for interactive cutscenes.
-  
-## Technologies Used
+### English:
 
-- **Unity 6**: Game engine for development.
-- **C#**: Primary programming language used for scripting.
-- **Blender**: 3D modeling and animation.
-- **Probuilder**: Level design and environment creation within Unity.
-- **Audio Design**: Custom sound effects and background music for creating tension and fear.
+- Psychological Horror Elements: A story-driven experience with intense psychological horror themes.
+- 3D Environments: Realistic 3D environments filled with suspense and terror.
+- Immersive Audio: Atmospheric sounds and music to enhance the sense of fear.
+- Puzzles and Challenges: Solve puzzles and interact with the environment to progress.
+- AI Behavior: Enemies that react to player actions and chase them.
+- Timeline Mechanics: Use of Unity’s PlayableDirector for interactive cutscenes.
 
-## Installation
+### فارسی:
 
-### Prerequisites
+- عناصر ترسناک روانشناختی: تجربه‌ای داستان‌محور با تم‌های ترسناک روانشناختی.
+- محیط‌های سه‌بعدی: محیط‌های واقع‌گرایانه و پر از هیجان و ترس.
+- صداگذاری غوطه‌ورکننده: استفاده از صداها و موسیقی برای تقویت حس ترس.
+- معماها و چالش‌ها: حل معماها و تعامل با محیط برای پیشرفت.
+- هوش مصنوعی دشمن: دشمنانی که به رفتار بازیکن واکنش نشان می‌دهند و او را تعقیب می‌کنند.
+- مکانیک‌های تایم‌لاین: استفاده از PlayableDirector در Unity برای انیمیشن‌های تعاملی.
 
-- Unity 6 (or higher)
-- A computer with Windows or macOS
+## YouTube Link - Full Game Output & Feedback
 
-### Getting Started
+Watch the full gameplay output and feedback for The Haunting Dream on YouTube:
 
-1. Clone the repository to your local machine:
-   
-   ```bash
-   git clone https://github.com/your-username/TheHauntingDream.git
+[The Haunting Dream - Full Game Output & Feedback](https://youtu.be/TsbSpEVTdJI)
