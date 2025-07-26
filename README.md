@@ -39,7 +39,7 @@ Watch the full gameplay output and feedback for The Haunting Dream on YouTube:
  
 ## Accessing Main Project Files
 
-For access to the main project files, including **Assets** and **ProjectSettings**, as well as other related files, please follow the link below to Google Drive:
+For access to the main project files, including **Assets** and **ProjectSettings** and **exe**, as well as other related files, please follow the link below to Google Drive:
 
 🔗 [Click here to access: The Haunting Dream - Project Files](https://drive.google.com/drive/folders/1yM8HJTccTJOtaxAJI3MIHRQHCGVvsAO9?usp=sharing)
 
@@ -47,6 +47,6 @@ For access to the main project files, including **Assets** and **ProjectSettings
 
 ## دسترسی به فایل‌های اصلی پروژه
 
-برای دسترسی به فایل‌های اصلی پروژه، از جمله **Assets** و **ProjectSettings** و همچنین سایر فایل‌های مربوطه، لطفاً از لینک زیر برای دانلود از Google Drive استفاده کنید:
+برای دسترسی به فایل‌های اصلی پروژه، از جمله **Assets** و **ProjectSettings** و **exe** همچنین سایر فایل‌های مربوطه، لطفاً از لینک زیر برای دانلود از Google Drive استفاده کنید:
 
 🔗 [برای دسترسی به فایل‌ها کلیک کنید: The Haunting Dream - فایل‌های پروژه](https://drive.google.com/drive/folders/1yM8HJTccTJOtaxAJI3MIHRQHCGVvsAO9?usp=sharing)
