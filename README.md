@@ -14,9 +14,9 @@ The Haunting Dream is a psychological horror game developed as a final project f
 
 Watch the full gameplay output and feedback for The Haunting Dream on YouTube:
 
-[![Watch on YouTube](https://img.youtube.com/vi/TsbSpEVTdJI/hqdefault.jpg)](https://youtu.be/TsbSpEVTdJI)
+[![Watch on YouTube](https://img.youtube.com/vi/TsbSpEVTdJI/hqdefault.jpg)](https://youtu.be/fziC3XWbKKk)
 
-🔗 [Click here to watch: The Haunting Dream – Full Game Output & Feedback](https://youtu.be/TsbSpEVTdJI)
+🔗 [Click here to watch: The Haunting Dream – Full Game Output & Feedback](https://youtu.be/fziC3XWbKKk)
 ## Features
 
 ### English:
